@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitin Garg</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Nitin Garg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jul 2018 12:43:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/blog/hello/</link>
+      <pubDate>Thu, 26 Jul 2018 12:43:40 -0400</pubDate>
+      
+      <guid>http://example.org/blog/hello/</guid>
+      <description>I don&amp;rsquo;t usually write much, but maybe this will change that.</description>
+    </item>
+    
+    <item>
+      <title>Eye Alarm</title>
+      <link>http://example.org/gallery/eye-alarm/</link>
+      <pubDate>Thu, 26 Jul 2018 12:17:28 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/eye-alarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 25 Jul 2018 20:57:49 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>How&amp;rsquo;s it going? I am a graduate computer science student at USC, living in Los Angeles, CA.
+My goal is to invent something new. I&amp;rsquo;m always looking for fresh ideas and different perspectives. I work hard for what I want.
+Check out my projects below to get an idea of what I do. My contact information is at the bottom of the page if you are interested.</description>
+    </item>
+    
+    <item>
+      <title>Vis</title>
+      <link>http://example.org/gallery/vis/</link>
+      <pubDate>Tue, 26 Jun 2018 12:17:43 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/vis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
