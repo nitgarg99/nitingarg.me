@@ -1,3 +1,31 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nitin Garg"
+theme = "osprey"
+
+[Params]
+    tagline = "Software Design and Engineering"
+    logoBig = "/images/logo.png"
+    github = "nitgarg99"
+    linkedin = "nitgarg99"
+    twitter = "nitgarg99"
+    email = "nitgarg99@gmail.com"
+    ajaxFormspree = true
+    
+
+[[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 4
