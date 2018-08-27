@@ -6,6 +6,7 @@ theme = "osprey"
 [Params]
     tagline = "Software Design and Engineering"
     logoBig = "/images/logo.png"
+    logoSmall = "/images/logo.png"
     github = "nitgarg99"
     linkedin = "nitgarg99"
     twitter = "nitgarg99"
