@@ -12,7 +12,7 @@ My goal is to invent something new. I'm always looking for fresh ideas and diffe
 what I do.
 
 
-Check out my projects below to get an idea of what I do. My contact information is at the bottom of the page if you are
+Check out my projects below to get an idea of my work. My contact information is at the bottom of the page if you are
 interested. 
 
 
