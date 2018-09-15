@@ -4,7 +4,7 @@ title = "Nitin Garg"
 theme = "osprey"
 
 [Params]
-    tagline = "Software Design and Engineering"
+    tagline = "Software and Hardware Engineering"
     logoBig = "/images/logo.png"
     logoSmall = "/images/logo.png"
     github = "nitgarg99"
