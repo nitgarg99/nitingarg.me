@@ -6,5 +6,5 @@ alt = ""
 color = "#818162"
 link1 = ""
 link2 = "https://github.com/nitgarg99/Vectorization"
-draft = true
+draft = false
 +++
